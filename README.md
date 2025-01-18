@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 </head>
 <body>
     <div>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR3dWY5eGJkdDF0YTA4eDd0Z2RybzNjaGFyODFzcGU4a250ZTZtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" alt="image">
+        <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR3dWY5eGJkdDF0YTA4eDd0Z2RybzNjaGFyODFzcGU4a250ZTZtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" alt="image">
     </div>
     
 </body>
